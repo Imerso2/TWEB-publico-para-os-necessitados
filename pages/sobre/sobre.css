@@ -1,0 +1,18 @@
+@import url('./styles/global.css');
+
+.pes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 15px;
+    margin-top: 10.2%;
+}
+.aiai{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    gap: 5px;
+    font-size: 14px;
+}
