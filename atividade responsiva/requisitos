@@ -1,0 +1,32 @@
+
+1. Estrutura HTML Básica
+● Todas as páginas devem conter:
+● Um menu de navegação no topo com links para as três páginas:
+○ Um rodapé com informações fictícias (e.g., "Professor Alex © 2024 Meu Site").
+○ O conteúdo principal de cada página deve estar dentro de uma tag <main>.
+
+2. Página Inicial (index.html)
+● Deve conter:
+○ Um banner de boas-vindas com uma imagem e um texto sobre o site.
+○ Um botão personalizado que leva para a página de contato.
+
+3. Página Sobre (sobre.html)
+Deve incluir:
+○ Uma seção com texto explicando a missão, visão e valores do site.
+○ Um espaço com imagens ou ícones representativos do tema do site.
+
+4. Página de Contato (contato.html)
+● Deve ter:
+○ Um formulário funcional, com os seguintes campos:
+■ Nome (campo de texto).
+■ E-mail (campo de texto).
+■ Assunto (campo de seleção).
+■ Mensagem (campo de texto longo).
+○ Um botão de envio estilizado.
+5. Estilização com CSS (style.css)
+● Aplique um tema visual consistente para o site:
+○ Cores complementares (defina uma paleta de cores com o --root).
+○ Tipografia coerente.
+○ Botões e links estilizados (efeitos ao passar o mouse com :hover).
+● O menu de navegação deve ser estilizado como um menu horizontal.
+● Rodapé estilizado com fundo diferenciado e texto centralizado.
